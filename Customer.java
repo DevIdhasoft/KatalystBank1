@@ -13,6 +13,7 @@ public class Customer {
 		this.AccountMoney=AccountMoney;
 		this.name=name;
 		this.AcctType = AcctType;
+//kjdksjbsd
 	}
 	public double GetInterestAmount() {
 		return AccountMoney * 0.1;
